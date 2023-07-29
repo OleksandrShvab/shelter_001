@@ -1,3 +1,3 @@
 const test = "test";
-alert (Hello World!!!)
+alert (Привіт!!!)
 
